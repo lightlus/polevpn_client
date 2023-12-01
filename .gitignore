@@ -1,0 +1,5 @@
+*.json
+.DS_Store
+*.log
+polevpn_client
+polevpn_client.exe
